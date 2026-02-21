@@ -1,8 +1,8 @@
 # Hi I'm CHI_WORN 👋
 
-<p align="">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chy+Worn;Web+Developer" />
-</p>
+
+ # <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chy+Worn;Web+Developer" />
+
 
 Here are some ideas to get you started:
 
