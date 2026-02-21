@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-589636?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)<br/>
-![Laptop Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
 ![Full Stack Dev](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chiworn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
