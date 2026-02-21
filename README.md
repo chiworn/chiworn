@@ -1,4 +1,7 @@
 # Hi I'm CHI_WORN 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Chy+Worn;Full-Stack+Web+Developer;Building+Modern+Web+Apps;Welcome+to+my+GitHub" />
+</p>
 
 
 Here are some ideas to get you started:
