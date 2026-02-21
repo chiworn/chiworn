@@ -2,7 +2,21 @@
 <p align="">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FFFFFF&stroke=FFFFFF&strokeWidth=1&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+CHI+WORN;Full-Stack+Web+Developer;Building+Modern+Web+Apps;Welcome+to+my+GitHub" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chy+Worn;Full-Stack+Web+Developer" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chy+Worn;Web+Developer" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chy+Worn;Full-Stack+Developer" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chy+Worn;Coding+with+Passion" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chy+Worn;Building+Modern+Web+Apps" />
+</p>
 
 Here are some ideas to get you started:
 
