@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)<br/>
 
 ![Full Stack Dev](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chy%20Worn&fontSize=40&fontColor=ffffff"/>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chiworn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chiworn&theme=radical&hide_border=false)<br/>
